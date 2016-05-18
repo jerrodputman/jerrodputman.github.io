@@ -11,7 +11,7 @@ title                    : "jerrodputman.com"
 title_separator          : "-"
 name                     : "Jerrod Putman"
 description              : "Articles and thoughts on game development and the industry."
-url                      : https://www.jerrodputman.com
+url                      : http://www.jerrodputman.com
 baseurl                  : 
 gh_repo                  : https://jerrodputman.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
