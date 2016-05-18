@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "jerrodputman.com"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
+name                     : "Jerrod Putman"
+description              : "Articles and thoughts on game development and the industry."
+url                      : https://www.jerrodputman.com
+baseurl                  : 
+gh_repo                  : https://jerrodputman.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : jerrodputman
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -35,9 +35,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : jerrodputman
 facebook:
-  username               :
+  username               : jerrodputman
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -61,30 +61,30 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jerrod Putman"
+  avatar           : jerrod-astro-blasters.jpg
+  bio              : "A game programmer who likes console games, iOS, and Mega Man 2."
+  location         : "Orange County, CA"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : jerrodputman
   foursquare       :
-  github           :
+  github           : jerrodputman
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : jerrodp
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : jerrodputman
   vine             :
   weibo            :
   xing             :
@@ -146,10 +146,10 @@ kramdown:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles
 
 
 # Plugins
@@ -204,3 +204,21 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
