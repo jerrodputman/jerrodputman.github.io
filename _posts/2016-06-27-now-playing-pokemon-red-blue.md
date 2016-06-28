@@ -1,12 +1,11 @@
 ---
 title: "Now Playing: Pokémon Red/Blue"
-description: "I discover the simple, remarkably deep gameplay of the original Pokémon Red and Blue Versions."
+description: "My experiences playing Pokémon Red/Blue for the first time"
 categories: Editorial
 tags: [Now Playing, Nintendo, 3DS, Pokémon, Pokémon: Red/Blue]
 published: 6-27-2016
+excerpt: "I discover the simple, remarkably deep gameplay of the original *Pokémon* Red and Blue Versions."
 ---
-
-***Now Playing** is a series of posts where I share my experiences of games I'm playing or have recently played.*
 
 I've actually played quite a few *Pokémon* games over the years, specifically *Diamond/Pearl*, *Black/White*, and even a tiny bit of *X/Y*. However, none of them really stuck with me, so I just assumed that the "Gotta catch 'em all" gameplay just wasn't for me.
 
