@@ -1,8 +1,13 @@
 ---
 title: "Now Playing: Pokémon Red/Blue"
 description: "My experiences playing Pokémon Red/Blue for the first time"
-categories: Editorial
-tags: [Now Playing, Nintendo, 3DS, Pokémon, Pokémon: Red/Blue]
+categories:
+  - Editorial
+tags:
+  - Now Playing
+  - Nintendo 3DS
+  - Pokémon
+  - Pokémon: Red/Blue
 published: 6-27-2016
 excerpt: "I discover the simple, remarkably deep gameplay of the original *Pokémon* Red and Blue Versions."
 ---
