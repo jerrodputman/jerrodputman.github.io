@@ -30,6 +30,6 @@ I also enjoy how *Red/Blue* name-drops future story events and characters. For e
 In the end, *Pokémon Red/Blue* is just a great game and a joy to play. Now that I'm more familiar with the core gameplay, I think I'll be less overwhelmed by the options and features of the newer games. I'm looking forward to *Sun/Moon* especially as my first chance to transfer my current team of Pokémon into a new generation, something I've not been able to experience before. And hopefully one day soon, an adorable little girl will become reacquainted with the grown-up version of the little Pokémon she named "Squirt".
 
 [brandon-plays-pokemon]: https://www.youtube.com/playlist?list=PLwa6fmqvU-4FUdjSGiMq_3_V2UCbq9yQL
-[easy-allies]: https://www.easyallies.com
+[easy-allies]: http://www.easyallies.com
 [kyle-bosman]: https://www.twitter.com/KyleBosman
-[brandon-jones]: https://www.twitter.com/BrandonJones
+[brandon-jones]: https://www.twitter.com/TrailerJones
