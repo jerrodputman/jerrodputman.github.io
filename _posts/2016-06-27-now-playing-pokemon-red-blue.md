@@ -9,7 +9,11 @@ tags:
   - Pokémon
   - Pokémon: Red/Blue
 published: 6-27-2016
-excerpt: "I discover the simple, remarkably deep gameplay of the original *Pokémon* Red and Blue Versions."
+excerpt: "Discovering the simple, remarkably deep gameplay of the original *Pokémon* Red and Blue Versions."
+header:
+  overlay_image: "2016-06-27/pokemon-pallet-town.jpg"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Credit: [**Nintendo**](https://www.nintendo.com)"
 ---
 
 I've actually played quite a few *Pokémon* games over the years, specifically *Diamond/Pearl*, *Black/White*, and even a tiny bit of *X/Y*. However, none of them really stuck with me, so I just assumed that the "Gotta catch 'em all" gameplay just wasn't for me.
