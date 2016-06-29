@@ -3,14 +3,15 @@ layout: archive
 permalink: /about/
 title: About Me
 tagline: About Jerrod Putman
-tags: [about]
-modified: 1-21-2014
+tags:
+  - About
+modified: 6-29-2016
 header:
   image: feature-image-02.jpg
   caption: "Credit: Mega Man 2, [**Capcom**](https://www.capcom.com)"
 ---
 
-I am a game programmer, with over 10 years of experience developing games. I owned my own company Tiny Tim Games for five years where I created two games and did various contract jobs. Currently, I mostly do native iOS development for my full-time job, but I still like to dabble in game development in [Unity][unity] and [Cocos2D][cocos2d]. My wife [Shannon][shannonkay] and I have a beautiful daughter named [Guinevere][fairguinevere]. We live in Orange County, California.
+I am a programmer, with over 14 years of experience developing games. I worked in the console game industry for over 5 years. I also owned my own company Tiny Tim Games for five years where I created two games and did various contract jobs. Currently, I mostly do native iOS development for my full-time job, but I still like to dabble in game development from time to time. My wife [Shannon][shannonkay] and I have a beautiful daughter named [Guinevere][fairguinevere]. We live in Orange County, California.
 
 ## Games I've Worked On
 
