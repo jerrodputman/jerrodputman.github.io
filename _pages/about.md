@@ -11,7 +11,7 @@ header:
   caption: "Credit: Mega Man 2, [**Capcom**](https://www.capcom.com)"
 ---
 
-I am a programmer, with over 14 years of experience developing games. I worked in the console game industry for over 5 years. I also owned my own company Tiny Tim Games for five years where I created two games and did various contract jobs. Currently, I mostly do native iOS development for my full-time job, but I still like to dabble in game development from time to time. My wife [Shannon][shannonkay] and I have a beautiful daughter named [Guinevere][fairguinevere]. We live in Orange County, California.
+I am a programmer, with over 14 years of experience developing games. I worked in the console game industry for a while before moving into the mobile arena. Currently, I mostly do native iOS development for my full-time job, but console games and game development still manages to excite and entice me. My wife [Shannon][shannonkay] and I have a beautiful daughter named [Guinevere][fairguinevere]. We live in Orange County, California.
 
 ## Games I've Worked On
 
